@@ -3,3 +3,4 @@ flask_sqlalchemy
 requests
 flask_security_too
 flask_restful
+flask_cors 
